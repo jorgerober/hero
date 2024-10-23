@@ -3,5 +3,6 @@
 
 1. Clonar el proyecto
 2. Ejecutar ```npm install```
+3. instaler servidor de datos ```npm install json-server```
 3. Levantar el backend ```npm run backend```
 4. ejecutar la app ```npm start``` o bien ```ng serve -o```
